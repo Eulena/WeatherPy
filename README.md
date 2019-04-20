@@ -7,4 +7,4 @@ This analysis was performed using a series of API calls from OpenWeatherMap.  Th
 -Busselton and Jamestown, Australia are in both the Southern Hemisphere and the Eastern hemisphere.
 -Cidreira, Brazil is in the Western, Northern and Southern hemispheres.
 
-In conclusion, the following cities namely: Hermanus, Busselton, Jamestown, and Cidreira goes to show that climate in these cities are of tropical climate and typically has high humidity; And since these cities are part of the Southern Hemisphere, it is the closest to the equator.
+In conclusion, the following cities namely: Hermanus, Busselton, Jamestown, and Cidreira goes to show that the climate in these cities are of tropical climate and typically has high humidity; And since these cities are part of the Southern Hemisphere, it is the closest to the equator.
